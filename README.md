@@ -1,9 +1,7 @@
 Hi there,
 
-I am Nick, a PhD student in computational bayesian medical genomics. 
+I am a PhD student in computational bayesian medical genomics. 
 At the moment I am working on high performance large scale model implementations for the prediction of medical phenotypes from genomic data.
-
-I like Rust and would like to help offer our community the tools it needs to transition from C++ to Rust as the main language for high performance model implementations.
 
 <!-- ![](https://github.com/nickmachnik/github-stats/blob/master/generated/overview.svg) -->
 <!-- ![](https://github.com/nickmachnik/github-stats/blob/master/generated/languages.svg) -->
