@@ -1,6 +1,6 @@
 Hi there,
 
-I am a PhD student in computational bayesian medical genomics. 
+I am a PhD student in statistical genetics. 
 At the moment I am working on high performance large scale model implementations
 (Bayesian neural networks and graphical causal models)
 for prediction and inference on medical and genetic data.
